@@ -1,1 +1,5 @@
 # BC2406-Analytics-I
+
+There lies a business opportunity for EIU to improve their value proposition to their customers through the improvement of economic forecasting. Two important ways have been identified to improve EIU’s current forecasting–methods used and variables used specifically in the prediction of real GDP growth. EIU currently uses an analytical method of regression for their prediction which could be replaced with Machine Learning methods which aim to increase both efficiency and accuracy. In addition, the EIU uses a small pool of indicators which are mostly economic indicators for the prediction of real GDP growth. However, studies have shown that there exist variables outside of the current pool that are related to a country’s economy and could be used to obtain a better prediction of real GDP growth. 
+
+The report hence aims to explore the use of Machine Learning techniques, particularly Linear Regression and CART, with the possible inclusion of other variables to provide a more optimal combination of indicators to predict real GDP growth
