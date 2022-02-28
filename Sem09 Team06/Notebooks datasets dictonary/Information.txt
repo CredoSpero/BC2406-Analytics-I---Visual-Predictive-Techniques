@@ -1,0 +1,7 @@
+The folder "Noteb datasets dict" contains: 
+	1. All Jupyter Notebooks 
+	2. Datasets required for the notebooks
+	3. Final cleaned datasets 
+	4. Data Dictionary 
+
+The folder "Raw Datasets" contains all the raw csv files obtained from the various data sources 
